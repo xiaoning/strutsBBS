@@ -1,0 +1,14 @@
+A:link {COLOR: #575656; TEXT-DECORATION: none ;font-size:14}   
+A:active {COLOR: #575656; TEXT-DECORATION: none;font-size:14}   
+A:visited {COLOR: #575656; TEXT-DECORATION: none;font-size:14}   
+A:hover {COLOR: red;position:relative;left:1px;top:1px;font-size:14}  
+td.header
+{
+	background-image: url(header_bg.gif);
+	background-repeat: repeat-x;
+}
+td.header2
+{
+	background-image: url(cbg.gif);
+	background-repeat: repeat-x;
+}
